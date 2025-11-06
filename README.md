@@ -30,9 +30,9 @@ The project features a **responsive design**, **basic field validation**, and **
 
 ## 🧑‍💻 Autor | Author
 
-Feito com por Loypuur
+Feito com por Gabriely Barreto
 
-Made with by Loypuur
+Made with by Gabriely Barreto
 
 ## 📄 Licença | License
 
